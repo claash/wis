@@ -1,8 +1,8 @@
-{	"name"        : "claash/instagram-scrapper",
+{	"name"        : "claash/wis",
 	"description" : "Load media from instagram to wordpress media library",
 	"keywords"    : [ "wordpress", "instagram", "media" ],
 	"type"        : "wordpress-plugin",
-	"homepage"    : "https://github.com/claash/instagram-scrapper",
+	"homepage"    : "https://github.com/claash/wis",
 	"license"     : "GPL-2.0-or-later",
     "require": {
         "raiym/instagram-php-scraper": "^0.11.1"
